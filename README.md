@@ -1,6 +1,6 @@
 # boot_from_emmc
 
-sudo fdisk -l
+### sudo fdisk -l
 
 Device         Boot  Start      End  Sectors  Size Id Type
 /dev/mmcblk0p1      204800   729087   524288  256M  c W95 FAT32 (LBA)
