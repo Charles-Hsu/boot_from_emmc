@@ -28,16 +28,17 @@ mmcblk1 是 emmc<br>
 
     $ ls
     2019-01-08-raspbian-jessie-preview-bpi-m2z-p2z-sd-emmc.img.zip  <--- 1.8G
-
+<p>
 ###### 參考資料
 - http://www.banana-pi.org/m2pz.html
 ###### 下載地址
 - https://drive.google.com/file/d/14tsP-ctECFxFBsF7Lmuv_C-Bm7Xppl79/view
+</p>
 
-      $ sudo unzip -p 2019-01-08-raspbian-jessie-preview-bpi-m2z-p2z-sd-emmc.img.zip | sudo dd of=/dev/mmcblk1 bs=10M
-      0+116480 records in
-      0+116480 records out
-      7650410496 bytes (7.7 GB, 7.1 GiB) copied, 260.784 s, 29.3 MB/s
+    $ sudo unzip -p 2019-01-08-raspbian-jessie-preview-bpi-m2z-p2z-sd-emmc.img.zip | sudo dd of=/dev/mmcblk1 bs=10M
+    0+116480 records in
+    0+116480 records out
+    7650410496 bytes (7.7 GB, 7.1 GiB) copied, 260.784 s, 29.3 MB/s
 
 時間大約 5 分鐘
 
