@@ -29,9 +29,9 @@ mmcblk1 是 emmc<br>
     $ ls
     2019-01-08-raspbian-jessie-preview-bpi-m2z-p2z-sd-emmc.img.zip  <--- 1.8G
 <p>
-###### 參考資料
+<div>參考資料</div>
 - http://www.banana-pi.org/m2pz.html
-###### 下載地址
+<div>下載地址</div>
 - https://drive.google.com/file/d/14tsP-ctECFxFBsF7Lmuv_C-Bm7Xppl79/view
 </p>
 
