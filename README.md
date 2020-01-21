@@ -2,6 +2,13 @@
 
 ### sudo fdisk -l
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+
 - Device         Boot  Start      End  Sectors  Size Id Type
 - /dev/mmcblk0p1      204800   729087   524288  256M  c W95 FAT32 (LBA)
 - /dev/mmcblk0p2      729088 14940159 14211072  6.8G 83 Linux
