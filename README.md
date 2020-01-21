@@ -11,6 +11,9 @@
     Device         Boot  Start      End  Sectors  Size Id Type
     /dev/mmcblk0p1      204800   729087   524288  256M  c W95 FAT32 (LBA)
     /dev/mmcblk0p2      729088 14940159 14211072  6.8G 83 Linux
+    
+mmcblk0 是 SSD 卡<br>
+mmcblk1 是 emmc<br>
 
     Disk /dev/mmcblk1: 7.3 GiB, 7818182656 bytes, 15269888 sectors<br>
 
